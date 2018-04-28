@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingularSystemsCreateUniverse", "SingularSystems\SingularSystemsCreateUniverse.csproj", "{04E018FA-1C9C-41C8-A28F-860BAE6CB361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingularSystemsCalculateRoute", "SingularSystemsCalculateRoute\SingularSystemsCalculateRoute.csproj", "{CE39BAF5-62ED-41ED-8D02-0A488017A69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E018FA-1C9C-41C8-A28F-860BAE6CB361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E018FA-1C9C-41C8-A28F-860BAE6CB361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E018FA-1C9C-41C8-A28F-860BAE6CB361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E018FA-1C9C-41C8-A28F-860BAE6CB361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE39BAF5-62ED-41ED-8D02-0A488017A69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE39BAF5-62ED-41ED-8D02-0A488017A69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE39BAF5-62ED-41ED-8D02-0A488017A69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE39BAF5-62ED-41ED-8D02-0A488017A69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B24A644F-4C07-41D7-93EB-FB797C66BB46}
+	EndGlobalSection
+EndGlobal
